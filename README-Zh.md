@@ -1,4 +1,5 @@
 # 自动Redpill装载程序
+[English](./README-En.md)
 
 这个特别的项目是为了方便我用Redpill进行测试而创建的，我决定与其他用户分享它。
 
