@@ -23,7 +23,9 @@ i18n: https://github.com/wjz304/arpl-i18n
   * https://github.com/wjz304/arpl-i18n/blob/main/guide.md
 
 ## 打赏一下
-<img src="https://raw.githubusercontent.com/wjz304/wjz304/master/my/20220908134226.jpg" width="400">
+* > ### 作者: Ing  QQ群: 21609194  QQ频道: redpill2syno
+* <img src="https://raw.githubusercontent.com/wjz304/wjz304/master/my/20220908134226.jpg" width="400">
+
 
 
 
